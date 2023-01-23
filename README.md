@@ -6,6 +6,8 @@ Pequeno repositório com alguns dos exercícios feitos no site Beecrowd - antigo
 interessantes na aplicação de linguagens de programação na resolução de problemas do dia a dia. O site em si é focado na programação competitiva, mas é de extrema ajuda para um leigo como eu
 que tem dificuldade até mesmo de fazer testes comparativos entre váriaveis. 
 
+Iníciei pelo básico, para conseguir resolver os exercícios com o mínimo de utilização do Stack Overflow ou Google da vida. Usei em alguns momentos, mas só para entender a utilização de regex, por meio de uma função em Python (diga-se de passagem, bem mais intuitivo do que um JavaScript da vida).
+
 Por enquanto, eu apenas estou utilizando a linguagem de programação Python como forma de resolução dos exercícios, mas pretendo praticar outras linguagens quando houver maior disponibilidade.
 
 Para rodar estes códigos, não é necessário adicionar nenhuma biblioteca, apenas o uso do interpretador Python é suficiente. 
